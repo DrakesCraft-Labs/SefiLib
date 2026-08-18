@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.svg" alt="SefiLib for DrakesCraft" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/DrakesCraft-Labs/SefiLib/main/banner.svg" alt="SefiLib for DrakesCraft" width="100%"></p>
 
 # SefiLib for DrakesCraft
 
