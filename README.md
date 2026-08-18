@@ -2,6 +2,16 @@
 
 # SefiLib for DrakesCraft
 
+> ### 🏰 ¡Únete a la Comunidad Oficial de DrakesCraft!
+> 
+> * 🎮 **IP del Servidor**: `play.drakescraft.net` *(Java 1.21.11 & Bedrock)*
+> * 💬 **Discord Oficial**: [discord.gg/drakescraft](https://discord.gg/rR7FbfCt9Y)
+> * 🌐 **Web & Guía**: [drakescraft.net](https://drakescraft.net) — 🛒 **Tienda**: [tienda.drakescraft.net](https://tienda.drakescraft.net)
+> 
+> *¡Juega con este addon y más de 80 expansiones optimizadas en vivo en nuestra network de supervivencia técnica!*
+
+---
+
 Compatibility port of SefiLib for Java 21, Paper/Purpur 1.21.11 and the repackaged DrakesCraft Slimefun core.
 
 The port updates modern Bukkit attributes, item flags and particle names. Telemetry and runtime update checks are disabled; reviewed artifacts are built and deployed centrally.
